@@ -1,0 +1,83 @@
+
+
+/* Pseudo clases */
+.btn1{
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: Century Gothic;
+	margin: 20px 900px;
+	padding: 10px;
+	font-size:12px;
+	border: 1px solid rgb(0, 0, 0);
+	background-color: black;
+}
+
+.btn1:hover{
+	background-color: white;
+	color: rgb(0, 0, 0);
+}
+
+.btn1:active{
+	background-color:white;
+}
+
+
+
+.btn2{
+	 color: black;
+	 margin: 20px 850px;
+	 font-family: Century Gothic;
+	 text-align: center;
+	 padding: 17px;
+	 font-size: 17px;
+	 border: 1px solid black;
+	 background-color: white;
+ }
+ .btn2:hover{
+	 background-color: black;
+	 color: white;
+ }
+ .btn2:active{
+	 background-color: black;
+ }
+
+ .btn3 {
+	 color:#616066 ;
+	 margin: 20px 800px;
+	 font-family: Century Gothic;
+	 text-align: center;
+	 padding: 17px;
+	 font-size:20px ;
+	 border: 1px solid #F0F0F0 ;
+	 background-color: #F0F0F0 ;
+
+ }
+ .btn3:hover{
+	 background-color: white;
+	 color:black ;
+ }
+.btn3:active {
+	background-color:white ;
+}
+
+.btn4 {
+	color: white;
+	margin: 20px 750px;
+	font-family: Century Gothic;
+	text-align: center;
+	padding: 17px;
+	font-size: 22px;
+	border: 1px solid #0074DA;
+	background-color: #0074DA;
+
+}
+.btn4:hover{
+	background-color: white;
+	color: #0074DA
+	;
+}
+.btn4:active{
+	background-color: white;
+
+}
